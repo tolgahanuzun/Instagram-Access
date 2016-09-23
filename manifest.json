@@ -1,0 +1,14 @@
+{
+  "name" : "Instagram Img Link",
+  "version" : "1",
+  "description" : "instagram uzerunden fotograf adreslerine erisim saglama..",
+  "permissions": [
+    "browsingData",
+    "tabs"
+  ],
+  "browser_action": {
+     "default_icon": "icon.png",
+     "default_popup": "popup.html"
+  },
+  "manifest_version": 2
+}
