@@ -3,7 +3,7 @@
 Instagram uzerindeki resimlerin linklerine tek tik ile ulasin!!!.
 
 ## Kullanimi
-<center> ![Extensions](/static/img/save.png) </center>
+-> ![Extensions](/static/img/save.png) <-
 
 ![Full Page](/static/img/example.png)
 ## Todo
