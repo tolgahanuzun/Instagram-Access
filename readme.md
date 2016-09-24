@@ -1,3 +1,11 @@
-# Instagram Image Download
+# Instagram Resimlerine Erisim
 
-Instagram uzerinden resimlerin linklerine erisim saglamak icin hazirlanmis bir eklentidir. 
+Instagram uzerindeki resimlerin linklerine tek tik ile ulasin!!!.
+
+## Todo
+
+- Readme guncellenecek...
+
+- Kod icerisine yorum satirlari eklenecek
+
+- Paket haline getirilecek. (.crx) 
