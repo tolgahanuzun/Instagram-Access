@@ -1,6 +1,6 @@
 # Instagram Resimlerine Erisim
 
-[Extensions](/static/img/save.png)
+![Extensions](/static/img/save.png)
 
 Instagram uzerindeki resimlerin linklerine tek tik ile ulasin!!!.
 
