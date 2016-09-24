@@ -1,7 +1,5 @@
 # Instagram Resimlerine Erisim
 
-<center> <img scr="/static/img/save.png"></img> </center>
-
 Instagram uzerindeki resimlerin linklerine tek tik ile ulasin!!!.
 
 ## Kullanimi
