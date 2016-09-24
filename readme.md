@@ -1,6 +1,6 @@
 # Instagram Resimlerine Erisim
 
-<center> <img scr="https://github.com/tolgahanuzun/Instagram-Access/blob/master/static/img/save.png" > </center>
+<center> <img scr="https://github.com/tolgahanuzun/Instagram-Access/blob/master/static/img/save.png"></img> </center>
 
 Instagram uzerindeki resimlerin linklerine tek tik ile ulasin!!!.
 
