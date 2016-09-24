@@ -3,7 +3,7 @@ chrome.tabs.getSelected(null, function(tab)
    link = tab.url;
     var alan=document.getElementById("link").innerHTML;
     link = link.split('.')
-    
+
     if (link[1] == "instagram") {
       urls = tab.url;
       link = urls.split('/')
@@ -17,7 +17,7 @@ chrome.tabs.getSelected(null, function(tab)
         document.getElementById("link").innerHTML =
           "<img src='"+ imglinklight +"'>"  +
           "<a  target='_blank' href='" + imglink + "'download>" +
-          "<button type='button' id='button' name='button'>Save to Img</button> </a>";
+          "  <button type='button' id='button' name='button'>Save to Img</button> </a>";
 
       } else {
         var metin = "Lutfen fotografin sag ust kosesindeki zaman ifadesine tiklayin."
